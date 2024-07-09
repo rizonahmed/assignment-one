@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: "Azeret Mono", monospace;
+word-spacing: -5px;
+letter-spacing:-.8px;
+
+}
+.resume-section{
+max-width: 80%;
+display: flex;
+justify-content: space-between;
+align-items: center;
+text-align: center;
+margin: 2rem auto;
+
+}
+.left-side > h3{
+font-size: 1.5rem;
+
+}
+.right-side >button{
+    border: none;
+outline: none;
+padding: .8rem 1.2rem;
+border-radius: .3rem ;
+border: 1px solid black;
+font-size: .9rem;
+font-weight: 500;
+background: transparent;
+cursor: pointer;
+
+}
+
+.banner{
+height: auto;
+background-image:url(Hero-bg.png) ;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+margin: 1rem auto;
+text-align: center;
+
+}
+
+.banner>img{
+padding: 2rem 0;
+}
+
+.banner>h1{
+max-width: ;width: 60%;
+text-align: center;
+margin: auto;
+font-size: 2.4rem;
+font-weight:bolder;
+line-height: 3.5rem;
+}
+.banner>p{
+max-width: 45%;
+font-size: .8rem;
+ margin: auto;
+ padding-top: 1.6rem;
+opacity: .8;
+line-height: 1.6rem;
+}
+ 
+.banner>a>button{
+border: none;
+outline: none;
+background-color: black;
+color: aliceblue;
+font-size: 1.1rem;
+font-weight: 400;
+padding: 1.3rem 1.6rem;
+border-radius: 8px;
+margin:2rem auto;
+ 
+}
