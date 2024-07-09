@@ -82,9 +82,13 @@ margin:2rem auto;
 /* header end here */
 
 /* main start here */
+
+/* section one start here */
+
+
 .second-section{
  max-width: 80%;
-height: auto;
+ height:auto;
 background-color: #FAFAFB;
 margin: 4.5rem auto;
 text-align: center;
@@ -109,7 +113,7 @@ max-width: 85%;
 height: auto;
 display: flex;
 flex-wrap: wrap;
-margin:2rem auto;
+margin:3rem auto;
 background: linear-gradient( hsl(0, 0%, 100%),#FAFAFB);
  justify-content: space-between;
  border-radius: .9rem;
@@ -143,11 +147,8 @@ margin: 1.5rem auto;
 opacity: .8;
 }
 .one-image{
-    margin: 2rem 1rem;
-
+margin: 2rem 1rem;
 }
-
-
 .second-card{
 display: flex;
 max-width: 85%;
@@ -159,14 +160,45 @@ background: linear-gradient( hsl(0, 0%, 100%),#FAFAFB);
  justify-content:  ;
  border-radius: .9rem;
 }
-
 .second-image>img{
     margin: 2rem 3.5rem;
  max-width: 90%;
 
 }
  
- 
+ /* section one end here */
+.inspiration{
+max-width:80%;
+margin: 3rem auto;
+text-align: center;
 
+}
+.inspire-content>h2{
+ font-size: 1.8rem;  
+font-weight: bold;
+}
+.inspire-content>p{
+max-width: 80%;
+margin:2rem auto ;
+
+
+}
+.youtube-vdio{
+    margin:4rem auto;
+    border: 1px solid #c5c3c3;
+    border-radius: .9rem;
+    max-width: 100%;
+    height: 40rem;
+
+}
+  .youtube-vdio> iframe{
+ width: 95%;
+ height: 90%;
+ margin-top: 2%;
+ border-radius: .9rem;
+  }
+ 
+ 
+ /* section two start here */
 
  
