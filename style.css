@@ -79,3 +79,94 @@ border-radius: 8px;
 margin:2rem auto;
  
 }
+/* header end here */
+
+/* main start here */
+.second-section{
+ max-width: 80%;
+height: auto;
+background-color: #FAFAFB;
+margin: 4.5rem auto;
+text-align: center;
+border-radius: .7rem;
+}
+.card-content>h2{
+font-size: 1.6rem;
+ font-weight: 800;
+ padding-top: 5.2rem;
+padding-bottom:1.5rem ;
+}
+.card-content>P{
+font-size: .8rem;
+font-weight: 300;
+letter-spacing: .1px;
+max-width: 70%;
+margin: auto;
+line-height: 1.5rem;
+}
+.first-card{
+max-width: 85%;
+height: auto;
+display: flex;
+flex-wrap: wrap;
+margin:2rem auto;
+background: linear-gradient( hsl(0, 0%, 100%),#FAFAFB);
+ justify-content: space-between;
+ border-radius: .9rem;
+}
+.one-text{
+text-align: left;
+padding: 3.5rem ;
+
+}
+.one-text>h2{
+font-size: 1.3rem ;
+ max-width:100% ;
+padding-bottom: 1.5rem;
+}
+
+.one-text>p{
+font-size: .8rem;
+max-width:100% ;
+line-height: 1rem;
+padding-bottom: 1rem;
+}
+.one-text>button{
+padding: .6rem 1.7rem;
+background: transparent;
+outline-offset: none;
+border: none;
+font-size: 1.1rem;
+font-weight: 600;
+border: 1px solid black;
+margin: 1.5rem auto;
+opacity: .8;
+}
+.one-image{
+    margin: 2rem 1rem;
+
+}
+
+
+.second-card{
+display: flex;
+max-width: 85%;
+height: auto;
+display: flex;
+flex-wrap: wrap;
+margin:2rem auto;
+background: linear-gradient( hsl(0, 0%, 100%),#FAFAFB);
+ justify-content:  ;
+ border-radius: .9rem;
+}
+
+.second-image>img{
+    margin: 2rem 3.5rem;
+ max-width: 90%;
+
+}
+ 
+ 
+
+
+ 
