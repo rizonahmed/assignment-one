@@ -167,6 +167,9 @@ background: linear-gradient( hsl(0, 0%, 100%),#FAFAFB);
 }
  
  /* section one end here */
+
+ /* section two start here */
+
 .inspiration{
 max-width:80%;
 margin: 3rem auto;
@@ -197,8 +200,178 @@ margin:2rem auto ;
  margin-top: 2%;
  border-radius: .9rem;
   }
- 
- 
- /* section two start here */
 
+ /* section two end here */
+
+ /* section three start here  */
+.my-target{
+max-width: 80%;
+margin: 3rem auto;
+text-align: center;
+margin: 3rem auto;
+}
+
+
+ .my-target h1{
+padding-top: 4rem;
+font-size: 1.9rem;
+text-align: center;
+
+ }
+.my-target>P{
+max-width: 65%;
+padding: 1.5rem;
+margin: auto;
+text-align: center;
+line-height: 2rem;
+font-size: .9rem;
+}
+.fonted{
+
+margin-bottom: 5rem;
+display: flex;
+justify-content: space-around;
+}
+
+ .html{
+background-color: #c5c3c3;
+max-width: 30rem;
+height: 21rem;
+ text-align: left;
+ padding:3rem ;
+ border-radius: .6rem;
+
+ }
+
+ .html>img{
+padding-bottom: 1.5rem;
+
+ }
+ .html>h3{
+font-size: 1.6rem;
+padding-bottom: 1rem;
+ }
+ .html>P{
+padding-bottom: 1.5rem;
+line-height: 1.8rem;
+
+ }
+ .html>a{
+font-size: 1rem;
+font-weight: 600;
+color: black;
+
+ }
+ #broun{
+background-color: #fff6f4;
+
+ }   
+#nblue{
+background-color: #f2f6fe;
+
+}
+ #yllow{
+    background-color: #fffdf2;
+ }
+
+.next-content>h2{
+    padding-top: 3rem;
+    font-size: 1.9rem;
+    text-align: center;
+}
+.next-content>p{
+    max-width: 65%;
+    padding: 1.5rem;
+    margin: auto;
+    text-align: center;
+    line-height: 2rem;
+    font-size: .9rem;
+}
+.react{
+display:flex;
+text-align: left;
+border: 1px solid rgb(204, 200, 200);
+ height: auto;
+ border-radius: .8rem;
+ max-width:98%;
+ margin: 2rem auto;
+}
+.js-photo{
+padding: 3rem 2rem;
+
+
+}
+.js-info>h3{
+padding-top: 2.5rem;
+padding-bottom: 1rem;
+
+}
+.js-info>p{
+font-size: .9rem;
+line-height: 1.5rem;
+padding-right: 3rem;
+}
+.lrn-more{
+margin: 2.5rem 0;
+
+}
+.lrn-more>a{
+    font-size: 1rem;
+    font-weight: 600;
+    color: black; 
+}
+
+.support{
+ max-width: 98%;  
+ height: 24rem; 
+ margin: 3rem auto;
+ background-image:linear-gradient(rgba(49, 54, 61, 0.7),rgba(32, 32, 41, 0.7)), url(handshake.jpg);
+background-size: cover;
+background-position: center;
+border-radius: .8rem;
+text-align: center;
+}
+.last-content{
+margin: 4rem auto;
+max-width: 60%;
+height: 12rem;
+text-align: center;
+ padding-top: 6rem;
  
+}
+.last-content>h2{
+font-size: 1.9rem;
+font-weight: 400;
+color: #FAFAFB;
+padding-bottom: 1rem;
+}
+.last-content>p{
+font-size: .9rem;
+font-weight: 100;
+color: whitesmoke;
+}
+
+.inp{
+max-width: 80%;
+margin: 4rem auto;
+display: flex;
+text-align: center;
+justify-content: center;
+gap: .9rem;
+flex-wrap: wrap;
+}
+
+.input-one >input{
+padding:1.3rem 10rem ;
+border-radius: .5rem;
+font-size: .9rem;
+text-align: left;
+}
+.input-two>input{
+padding: 1.1rem 3rem;
+font-size: 1.2rem;
+font-weight: 500;
+border-radius: .5rem;
+}
+
+/* section three end here */
